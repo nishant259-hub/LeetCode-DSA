@@ -1,18 +1,30 @@
-# 🚀 LeetCode Solutions (C++)
+# 🚀 Data Structures & Algorithms (LeetCode)
 
-इस रिपॉजिटरी में मेरी **LeetCode DSA Practice** के सभी सॉल्यूशन्स, उनकी टाइम/स्पेस कॉम्प्लेक्सिटी और नोट्स शामिल हैं।
-
----
-
-## 📊 प्रोग्रेस ट्रैकर (Solved Problems)
-
-| # | प्रॉब्लम का नाम | टॉपिक | डिफिकल्टी | मेरा सॉल्यूशन |
-|---|----------------|-------|-----------|---------------|
-| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Array, Hash Table, Math | Easy | [C++ Solution](./2965-find-missing-and-repeated-values/) |
+Welcome to my DSA repository! Here, I track my daily problem-solving journey, algorithmic thinking, and optimized implementations in **C++**.
 
 ---
 
-## 🛠️ टेक स्टैक
-* **भाषा:** C++ (C++17 / C++20)
-* **ऑटोमेशन:** LeetHub v2
-<!---LeetCode Topics End-->
+### 📌 About This Repository
+* **Primary Language:** C++ (C++17 / C++20)
+* **Goal:** Master core DSA concepts, time-space trade-offs, and ace coding interviews.
+* **Auto-Sync:** All solutions, complexities, and problem descriptions are automatically committed via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+---
+
+### 📂 Directory Structure
+Every solved problem resides in its dedicated directory named with its LeetCode ID and title:
+
+---
+
+### 💡 Core Focus Areas
+- **Arrays & Hashing** (Frequency counting, Two Pointers, Sliding Window)
+- **Mathematical Logic** (Sum formulas, Bit Manipulation)
+- **Binary Search & Sorting**
+- **Dynamic Programming & Graphs**
+
+---
+
+<p align="center">
+  <i>"Consistency is what transforms average into excellence."</i><br>
+  Happy Coding! ⚡
+</p>
