@@ -12,15 +12,17 @@ Welcome to my DSA repository! Here, I track my daily problem-solving journey, al
 ---
 
 ## 📂 Directory Structure
+
 Every solved problem resides in its dedicated directory named with its LeetCode ID and title:
 
-text
+```
 ├── 0088-merge-sorted-array/
 │   ├── README.md         # Problem description & constraints
 │   └── solution.cpp      # Accepted C++ implementation
 ├── 0169-majority-element/
 ├── 2965-find-missing-and-repeated-values/
 ...
+```
 
 ---
 
