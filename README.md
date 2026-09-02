@@ -38,3 +38,15 @@ Every solved problem resides in its dedicated directory named with its LeetCode 
   <i>"Consistency is what transforms average into excellence."</i><br>
   Happy Coding! ⚡
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0136-single-number) |
+<!---LeetCode Topics End-->
