@@ -54,4 +54,12 @@ Every solved problem resides in its dedicated directory named with its LeetCode 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
