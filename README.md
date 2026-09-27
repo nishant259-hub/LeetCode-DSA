@@ -48,6 +48,7 @@ Every solved problem resides in its dedicated directory named with its LeetCode 
 | [0075-sort-colors](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0136-single-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Every solved problem resides in its dedicated directory named with its LeetCode 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishant259-hub/LeetCode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
